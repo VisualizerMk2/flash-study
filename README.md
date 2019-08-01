@@ -24,6 +24,4 @@ Initial plans are for Flash Study's front end to be built using React with Redux
 
 ## Roadmap
 
-- [x] Finish NestJS API routes for cards and users
-- [ ] Write unit tests for API
-- [ ] Begin work on React front end
+To institute an agile development cycle, this [Trello board](https://trello.com/b/tksYt7QN/flash-study) will be updated with user stories and progress updates for the application.
